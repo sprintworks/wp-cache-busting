@@ -30,14 +30,17 @@ cd example-theme
 npm i
 npm
 ```
-Edit css and js in `example-theme/assets/rev`
+Edit scss and js in `example-theme/assets/scss` and `example-theme/assets/js`
 
 Create a build
 ```bash
 npm run build
 ```
 
-In `example-theme/assets/rev` you will find the hashed files.
+In `example-theme/assets/rev` you will find the hashed files. When you continue building your theme and adding template files, the correct assets will be enqueued in the html.
 
-## Important note: This example theme doesn't have anything more than the functions file (besides the gulp and assets folders). You can incorporate this into your own theme with the rest of the needed template files.
+![](https://res.cloudinary.com/urre/image/upload/v1493125404/fhujrgqhe2pupcieiooh.png)
+
+## 🙋‍Important note: 
+This example theme doesn't have anything more than the functions file (besides the gulp and assets folders). You can incorporate this into your own theme with the rest of the needed template files.
 
