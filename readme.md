@@ -5,7 +5,7 @@ A workflow/setup for doing real static asset revisioning by appending content ha
 ## Features
 + Using [gulp-rev](https://github.com/sindresorhus/gulp-rev) for creating `manifest.json`
 + Conditional enqueues of css and js for development/production environments.
-+ Works in Bedrock setups reading `WP_ENV` from the `.env` file
++ Requires that you use setup with an `.env` file, since we use the `WP_ENV` flag. We often use [Bedrock](https://github.com/roots/bedrock)
 
 ## Walkthrough
 
