@@ -1,6 +1,6 @@
 # WP Cache Busting
 
-A workflow/setup for doing real static asset revisioning by appending content hash to filenames: main.css → main-d41d8cd98f.css.
+A workflow/setup for doing real static asset revisioning by appending content hash to filenames: `main.css` → `main-d41d8cd98f.css`.
 
 ## Features
 + Using [gulp-rev](https://github.com/sindresorhus/gulp-rev) for creating `manifest.json`
