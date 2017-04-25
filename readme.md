@@ -39,7 +39,7 @@ npm run build
 
 In `example-theme/assets/rev` you will find the hashed files. When you continue building your theme and adding template files, the correct assets will be enqueued in the html.
 
-![](https://res.cloudinary.com/urre/image/upload/v1493125404/fhujrgqhe2pupcieiooh.png)
+![](https://res.cloudinary.com/urre/image/upload/v1493125509/attmidj2tz1jpzu5ab6n.png)
 
 ## 🙋‍Important note: 
 This example theme doesn't have anything more than the functions file (besides the gulp and assets folders). You can incorporate this into your own theme with the rest of the needed template files.
