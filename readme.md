@@ -24,15 +24,18 @@ A workflow/setup for doing real static asset revisioning by appending content ha
 
 ## Try it out
 
-Install
+### Install
 ```bash
 cd example-theme
 npm i
-npm
 ```
+### Develop
 Edit scss and js in `example-theme/assets/scss` and `example-theme/assets/js`
+```bash
+npm start
+```
 
-Create a build
+### Create a build
 ```bash
 npm run build
 ```
